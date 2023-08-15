@@ -1,12 +1,4 @@
-> **作者：** [一去、二三里](https://waleon.blog.csdn.net/)
-> 
-> **微信公众号：** 高效程序员
-> 
->  **个人微信：** iwaleon（加我微信，邀请入 500 人微信群）
-> 
->  **个人 QQ：** 550755606
-> 
->  **QQ 技术交流群：** 242790253
+# 基本介绍
 
 这是一份史上最强、最高清、最好用的 QML 思维导图，所有内容均来自专栏 [《细说 QML》](https://waleon.blog.csdn.net/article/details/58064240)：
 
@@ -99,10 +91,17 @@
 1. [QML HTTP 请求](https://waleon.blog.csdn.net/article/details/132235514)
 ![输入图片说明](assets/network/QML%20HTTP%20%E8%AF%B7%E6%B1%82.png)
 
-# 更多干货
+# 关于作者
+
+作者：[一去、二三里](https://waleon.blog.csdn.net/)，爱编程、爱学习、爱生活！
 
 - [个人博客](https://waleon.blog.csdn.net/)
+- 个人微信：iwaleon（加我微信，邀请入 500 人微信群）
+- 个人 QQ：550755606
+- QQ 技术交流群：242790253
 
-更多干货分享，请关注我的微信公众号【高效程序员】，有趣、好玩、靠谱！
+欢迎大家关注我的微信公众号：高效程序员
 
 ![输入图片说明](assets/qrcode.jpg)
+
+聚焦程序人生，践行终身成长。专注分享 IT 技术、学习资料、职场经验、热点资讯，有趣、好玩、靠谱！
