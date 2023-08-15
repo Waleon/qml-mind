@@ -1,6 +1,6 @@
 # 基本介绍
 
-QML 相关思维导图，所有图片均来自专栏 [《细说 QML》](https://waleon.blog.csdn.net/article/details/58064240)：
+这是一份史上最强、最高清、最好用的 QML 思维导图，所有内容均来自专栏 [《细说 QML》](https://waleon.blog.csdn.net/article/details/58064240)：
 
 - 全新的 QML
 - 基于 Qt6 + CMake
