@@ -91,6 +91,10 @@
 1. [QML HTTP 请求](https://waleon.blog.csdn.net/article/details/132235514)
 ![输入图片说明](assets/network/QML%20HTTP%20%E8%AF%B7%E6%B1%82.png)
 
+2. [QML WebSocket 客户端](https://waleon.blog.csdn.net/article/details/132344612)
+![输入图片说明](assets/network/QML%20WebSocket%20%E5%AE%A2%E6%88%B7%E7%AB%AF.png)
+
+
 # 关于作者
 
 作者：[一去、二三里](https://waleon.blog.csdn.net/)，爱编程、爱学习、爱生活！
