@@ -95,6 +95,9 @@
 ![输入图片说明](assets/network/QML%20WebSocket%20%E5%AE%A2%E6%88%B7%E7%AB%AF.png)
 
 
+3. [QML WebSocket 服务器](https://waleon.blog.csdn.net/article/details/132361628)
+![输入图片说明](assets/network/QML%20WebSocket%20%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+
 # 关于作者
 
 作者：[一去、二三里](https://waleon.blog.csdn.net/)，爱编程、爱学习、爱生活！
