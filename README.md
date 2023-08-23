@@ -94,9 +94,9 @@
 2. [QML WebSocket 客户端](https://waleon.blog.csdn.net/article/details/132344612)
 ![输入图片说明](assets/network/QML%20WebSocket%20%E5%AE%A2%E6%88%B7%E7%AB%AF.png)
 
-
 3. [QML WebSocket 服务器](https://waleon.blog.csdn.net/article/details/132361628)
 ![输入图片说明](assets/network/QML%20WebSocket%20%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+
 
 # 关于作者
 
@@ -107,8 +107,6 @@
 - 个人 QQ：550755606
 - QQ 技术交流群：242790253
 
-欢迎大家关注我的微信公众号：高效程序员
+更多干货，请扫码关注我的微信公众号，不要太惊喜哦~
 
-![输入图片说明](assets/qrcode.jpg)
-
-聚焦程序人生，践行终身成长。专注分享 IT 技术、学习资料、职场经验、热点资讯，有趣、好玩、靠谱！
+![微信公众号](assets/qrcode.jpg)
