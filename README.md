@@ -98,6 +98,20 @@
 ![输入图片说明](assets/network/QML%20WebSocket%20%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
 
 
+## Web 开发
+
+1. [QML 创建 Web 混合应用](https://waleon.blog.csdn.net/article/details/134142392)
+![输入图片说明](assets/web/QML%20%E5%88%9B%E5%BB%BA%20Web%20%E6%B7%B7%E5%90%88%E5%BA%94%E7%94%A8.png)
+
+2. [QML WebEngineView 调用 JavaScript](https://waleon.blog.csdn.net/article/details/134185517)
+![输入图片说明](assets/web/QML%20WebEngineView%20%E8%B0%83%E7%94%A8%20JavaScript.png)
+
+3. [利用 WebChannel 实现 QML 和 Web 双向通信](https://waleon.blog.csdn.net/article/details/134600758)
+![输入图片说明](assets/web/%E5%88%A9%E7%94%A8%20WebChannel%20%E5%AE%9E%E7%8E%B0%20QML%20%E5%92%8C%20Web%20%E5%8F%8C%E5%90%91%E9%80%9A%E4%BF%A1.png)
+
+4. [QML WebEngineView 全屏和退出](https://waleon.blog.csdn.net/article/details/134861737)
+![输入图片说明](assets/web/QML%20WebEngineView%20%E5%85%A8%E5%B1%8F%E5%92%8C%E9%80%80%E5%87%BA.png)
+
 # 关于作者
 
 作者：[一去、二三里](https://waleon.blog.csdn.net/)，爱编程、爱学习、爱生活！
